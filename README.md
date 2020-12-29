@@ -12,11 +12,8 @@ Used on the following Anet A8 config:
 * Bed re-wired/resoldered for safety
 * Flashed with Marlin (exactly this config: https://github.com/skohlbr/Marlin/commits/sk_anet_a8_pull_upstream_adjusted_acc_jerk)
 
-So should work for stock Anet A8 just fine. Only created a PLA config, as I don't user other filament types at the moment.
+So should work for stock Anet A8 just fine. Only created a PLA config, as I don't use other filament types at the moment.
 
 
 
 Created on Ubuntu 18.04 with PrusaSlicer 2.3.0-rc2+linux-x64.
-
-
-
